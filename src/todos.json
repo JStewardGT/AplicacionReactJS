@@ -1,0 +1,22 @@
+{
+	"todos": [
+		{
+			"title": "Tarea 1",
+			"responsible": "Mark",
+			"description": "lorem ipsum",
+			"priority": "Baja"
+		},
+		{
+			"title": "Tarea 2",
+			"responsible": "Ryan",
+			"description": "lorem ipsum 2",
+			"priority": "Media"
+		},
+		{
+			"title": "Tarea 3",
+			"responsible": "Joseph",
+			"description": "lorem ipsum",
+			"priority": "Alta"
+		}
+	]
+}
